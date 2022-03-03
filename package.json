@@ -1,0 +1,70 @@
+{
+  "name": "amantehub",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "roman popov",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.14.3",
+    "@babel/preset-env": "^7.14.2",
+    "autoprefixer": "^10.2.5",
+    "browser-sync": "^2.26.14",
+    "browserslist": "^4.16.6",
+    "del": "^6.0.0",
+    "eslint": "^7.26.0",
+    "eslint-config-airbnb": "^18.2.1",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-import": "^2.23.2",
+    "eslint-plugin-jsx-a11y": "^6.4.1",
+    "eslint-plugin-prettier": "^3.4.0",
+    "eslint-plugin-react": "^7.23.2",
+    "eslint-plugin-react-hooks": "^4.2.0",
+    "gulp": "^4.0.2",
+    "gulp-babel": "^8.0.0",
+    "gulp-group-css-media-queries": "^1.2.2",
+    "gulp-postcss": "^9.0.0",
+    "gulp-sass": "^4.1.0",
+    "gulp-sourcemaps": "^3.0.0",
+    "gulp-stylelint": "^13.0.0",
+    "node-sass": "^6.0.0",
+    "postcss-custom-properties": "^11.0.0",
+    "prettier": "^2.3.0",
+    "stylelint": "^13.13.1",
+    "stylelint-config-prettier": "^8.0.2",
+    "stylelint-config-recess-order": "^2.4.0",
+    "stylelint-config-standard": "^22.0.0"
+  },
+  "browserslist": [
+    "> 0.1%",
+    "last 10 versions",
+    "ie 11"
+  ],
+  "postcss": {
+    "map": true,
+    "syntax": "postcss-scss",
+    "plugins": {
+      "autoprefixer": {
+        "browserslist": [
+          "> 0.1%",
+          "last 2 versions",
+          "ie 11"
+        ]
+      }
+    }
+  },
+  "dependencies": {
+    "@fancyapps/fancybox": "^3.5.7",
+    "choices.js": "^9.0.1",
+    "cocoen": "^3.1.1",
+    "imask": "^6.0.7",
+    "jquery": "^3.6.0",
+    "nouislider": "^15.1.1",
+    "overlayscrollbars": "^1.13.1",
+    "postcss-scss": "^2.1.1",
+    "swiper": "^6.6.1"
+  }
+}

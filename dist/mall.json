@@ -1,0 +1,172 @@
+{
+  "mapwidth": "1920",
+  "mapheight": "1548",
+  "defaultstyle": "light",
+  "styles": [
+    {
+      "class": "light",
+      "hover": { "fill": "#f4f4f4" },
+      "active": { "fill": "#fff" }
+    },
+    {
+      "class": "dark",
+      "hover": { "fill": "#666" },
+      "active": { "fill": "#555" }
+    }
+  ],
+  "categories": [
+    {
+      "id": "shoes",
+      "title": "Обувь",
+      "about": "Cothing & Accessories",
+      "icon": "О",
+      "color": "#FF9595"
+    },
+    {
+      "id": "clothes",
+      "title": "Одежда",
+      "about": "Health & Cosmetics",
+      "icon": "О",
+      "color": "#FFB985"
+    }
+  ],
+  "levels": [
+    {
+      "id": "floor-3",
+      "title": "-3",
+      "map": "maps/mall/floor-3.svg",
+      "locations": []
+    },
+    {
+      "id": "floor-2",
+      "title": "-2",
+      "map": "maps/mall/floor-2.svg",
+      "locations": []
+    },
+    {
+      "id": "floor-1",
+      "title": "-1",
+      "map": "maps/mall/floor-1.svg",
+      "show": "true",
+      "locations": [
+        {
+          "id": "ecco",
+          "title": "Ecco",
+          "about": "-1 этаж",
+          "description": "<div class=\"tenant-item\"><div class=\"tenant-item__inner\"><div class=\"tenant-item__bg-wrap\"><img src=\"images/content/shops-1.jpg\"class=\"tenant-item__bg-img\"/></div><div class=\"tenant-item__content\"><div class=\"tenant-item__logo-wrap\"><img src=\"images/content/logo-louie-vuitton.jpg\" alt=\"\" class=\"tenant-item__logo-img\" /> </div> <div class=\"tenant-item__info\"> <div class=\"tenant-item__info-col -text\"><div class=\"tenant-item__text-title\">Ecco</div><div class=\"tenant-item__text-description\">Обувь, Одежда, Аксессуары</div></div><div class=\"tenant-item__info-col -map\"><a href=\"#\" class=\"tenant-item__map-link\">Подробнее</a></div></div></div></div></div>",
+          "category": "shoes",
+          "style": "dark",
+          "zoom": "2",
+          "action": "external"
+        },
+        {
+          "id": "replay",
+          "title": "Replay",
+          "about": "-1 этаж",
+          "description": "<div class=\"tenant-item\"><div class=\"tenant-item__inner\"><div class=\"tenant-item__bg-wrap\"><img src=\"images/content/shops-1.jpg\"class=\"tenant-item__bg-img\"/></div><div class=\"tenant-item__content\"><div class=\"tenant-item__logo-wrap\"><img src=\"images/content/logo-louie-vuitton.jpg\" alt=\"\" class=\"tenant-item__logo-img\" /> </div> <div class=\"tenant-item__info\"> <div class=\"tenant-item__info-col -text\"><div class=\"tenant-item__text-title\">Replay</div><div class=\"tenant-item__text-description\">Обувь, Одежда, Аксессуары</div></div><div class=\"tenant-item__info-col -map\"><a href=\"#\" class=\"tenant-item__map-link\">Подробнее</a></div></div></div></div></div>",
+          "thumbnail": "images/content/logo-alpha.jpg",
+          "category": "clothes",
+          "style": "dark",
+          "zoom": "2",
+          "action": "external"
+        },
+        {
+          "id": "A44",
+          "title": "Replay",
+          "about": "-1 этаж",
+          "description": "<div class=\"tenant-item\"><div class=\"tenant-item__inner\"><div class=\"tenant-item__bg-wrap\"><img src=\"images/content/shops-1.jpg\"class=\"tenant-item__bg-img\"/></div><div class=\"tenant-item__content\"><div class=\"tenant-item__logo-wrap\"><img src=\"images/content/logo-louie-vuitton.jpg\" alt=\"\" class=\"tenant-item__logo-img\" /> </div> <div class=\"tenant-item__info\"> <div class=\"tenant-item__info-col -text\"><div class=\"tenant-item__text-title\">Replay</div><div class=\"tenant-item__text-description\">Обувь, Одежда, Аксессуары</div></div><div class=\"tenant-item__info-col -map\"><a href=\"#\" class=\"tenant-item__map-link\">Подробнее</a></div></div></div></div></div>",
+          "thumbnail": "images/content/logo-alpha.jpg",
+          "category": "clothes",
+          "zoom": "2",
+          "action": "external"
+        },
+        {
+          "id": "A45",
+          "title": "Replay",
+          "about": "-1 этаж",
+          "description": "<div class=\"tenant-item\"><div class=\"tenant-item__inner\"><div class=\"tenant-item__bg-wrap\"><img src=\"images/content/shops-1.jpg\"class=\"tenant-item__bg-img\"/></div><div class=\"tenant-item__content\"><div class=\"tenant-item__logo-wrap\"><img src=\"images/content/logo-louie-vuitton.jpg\" alt=\"\" class=\"tenant-item__logo-img\" /> </div> <div class=\"tenant-item__info\"> <div class=\"tenant-item__info-col -text\"><div class=\"tenant-item__text-title\">Replay</div><div class=\"tenant-item__text-description\">Обувь, Одежда, Аксессуары</div></div><div class=\"tenant-item__info-col -map\"><a href=\"#\" class=\"tenant-item__map-link\">Подробнее</a></div></div></div></div></div>",
+          "thumbnail": "images/content/logo-alpha.jpg",
+          "category": "clothes",
+          "zoom": "2",
+          "action": "external"
+        },
+        {
+          "id": "A46",
+          "title": "Replay",
+          "about": "-1 этаж",
+          "description": "<div class=\"tenant-item\"><div class=\"tenant-item__inner\"><div class=\"tenant-item__bg-wrap\"><img src=\"images/content/shops-1.jpg\"class=\"tenant-item__bg-img\"/></div><div class=\"tenant-item__content\"><div class=\"tenant-item__logo-wrap\"><img src=\"images/content/logo-louie-vuitton.jpg\" alt=\"\" class=\"tenant-item__logo-img\" /> </div> <div class=\"tenant-item__info\"> <div class=\"tenant-item__info-col -text\"><div class=\"tenant-item__text-title\">Replay</div><div class=\"tenant-item__text-description\">Обувь, Одежда, Аксессуары</div></div><div class=\"tenant-item__info-col -map\"><a href=\"#\" class=\"tenant-item__map-link\">Подробнее</a></div></div></div></div></div>",
+          "thumbnail": "images/content/logo-alpha.jpg",
+          "category": "clothes",
+          "zoom": "2",
+          "action": "external"
+        },
+        {
+          "id": "A47",
+          "title": "Replay",
+          "about": "-1 этаж",
+          "description": "<div class=\"tenant-item\"><div class=\"tenant-item__inner\"><div class=\"tenant-item__bg-wrap\"><img src=\"images/content/shops-1.jpg\"class=\"tenant-item__bg-img\"/></div><div class=\"tenant-item__content\"><div class=\"tenant-item__logo-wrap\"><img src=\"images/content/logo-louie-vuitton.jpg\" alt=\"\" class=\"tenant-item__logo-img\" /> </div> <div class=\"tenant-item__info\"> <div class=\"tenant-item__info-col -text\"><div class=\"tenant-item__text-title\">Replay</div><div class=\"tenant-item__text-description\">Обувь, Одежда, Аксессуары</div></div><div class=\"tenant-item__info-col -map\"><a href=\"#\" class=\"tenant-item__map-link\">Подробнее</a></div></div></div></div></div>",
+          "thumbnail": "images/content/logo-alpha.jpg",
+          "category": "clothes",
+          "zoom": "2",
+          "action": "external"
+        },
+        {
+          "id": "A48",
+          "title": "Replay",
+          "about": "-1 этаж",
+          "description": "<div class=\"tenant-item\"><div class=\"tenant-item__inner\"><div class=\"tenant-item__bg-wrap\"><img src=\"images/content/shops-1.jpg\"class=\"tenant-item__bg-img\"/></div><div class=\"tenant-item__content\"><div class=\"tenant-item__logo-wrap\"><img src=\"images/content/logo-louie-vuitton.jpg\" alt=\"\" class=\"tenant-item__logo-img\" /> </div> <div class=\"tenant-item__info\"> <div class=\"tenant-item__info-col -text\"><div class=\"tenant-item__text-title\">Replay</div><div class=\"tenant-item__text-description\">Обувь, Одежда, Аксессуары</div></div><div class=\"tenant-item__info-col -map\"><a href=\"#\" class=\"tenant-item__map-link\">Подробнее</a></div></div></div></div></div>",
+          "thumbnail": "images/content/logo-alpha.jpg",
+          "category": "clothes",
+          "zoom": "2",
+          "action": "external"
+        },
+        {
+          "id": "A49",
+          "title": "Replay",
+          "about": "-1 этаж",
+          "description": "<div class=\"tenant-item\"><div class=\"tenant-item__inner\"><div class=\"tenant-item__bg-wrap\"><img src=\"images/content/shops-1.jpg\"class=\"tenant-item__bg-img\"/></div><div class=\"tenant-item__content\"><div class=\"tenant-item__logo-wrap\"><img src=\"images/content/logo-louie-vuitton.jpg\" alt=\"\" class=\"tenant-item__logo-img\" /> </div> <div class=\"tenant-item__info\"> <div class=\"tenant-item__info-col -text\"><div class=\"tenant-item__text-title\">Replay</div><div class=\"tenant-item__text-description\">Обувь, Одежда, Аксессуары</div></div><div class=\"tenant-item__info-col -map\"><a href=\"#\" class=\"tenant-item__map-link\">Подробнее</a></div></div></div></div></div>",
+          "thumbnail": "images/content/logo-alpha.jpg",
+          "category": "clothes",
+          "zoom": "2",
+          "action": "external"
+        },
+        {
+          "id": "ELEVATOR-1",
+          "title": "Лифт",
+          "action": "disabled"
+        },
+        {
+          "id": "ELEVATOR-1_2",
+          "title": "Лифт",
+          "action": "disabled"
+        },
+        {
+          "id": "TOILET-1",
+          "title": "Лифт",
+          "action": "disabled"
+        },
+        {
+          "id": "INVALID-1",
+          "title": "Лифт",
+          "action": "disabled"
+        },
+        {
+          "id": "MOTHER-1",
+          "title": "Лифт",
+          "action": "disabled"
+        },
+        {
+          "id": "ESCALATOR-1",
+          "title": "Лифт",
+          "action": "disabled"
+        }
+      ]
+    },
+    {
+      "id": "floor-0",
+      "title": "0",
+      "map": "maps/mall/floor-0.svg",
+      "locations": []
+    }
+  ]
+}
